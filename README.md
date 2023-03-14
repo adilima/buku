@@ -32,3 +32,5 @@ const handler = async (request) => {
 serve(handler);
 ```
 
+![Screenshot](images/simple-1.jpg)
+
