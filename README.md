@@ -32,5 +32,11 @@ const handler = async (request) => {
 serve(handler);
 ```
 
+Then run it locally.
+
+```console
+deno run -A tests/simple.jsx
+```
+
 ![Screenshot](images/simple-1.jpg)
 
