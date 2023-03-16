@@ -1,6 +1,6 @@
 import {serve} from 'https://deno.land/std@0.179.0/http/server.ts';
-import React from 'react';
-import {renderToString} from 'react-dom/server';
+import React from 'https://esm.sh/stable/react@18.2.0/es2022/react.js';
+import {renderToString} from 'https://esm.sh/v111/react-dom@18.2.0/es2022/server.js';
 
 const SayHello = (props) => {
     return (
